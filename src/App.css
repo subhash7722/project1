@@ -18,13 +18,13 @@
   background: #ffffff;
   padding: 30px;
   border-radius: 12px;
-  width: 350px;
+  width: 450px;
   text-align: center;
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
 }
 
 .title {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   color: #333;
 }
 
